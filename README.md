@@ -1,8 +1,5 @@
-+--------------------------------------------------------------------+
-|                                                                    |
-|                 Blockwise excursion sampling (BES)                 |
-|                                                                    |
-+--------------------------------------------------------------------+
+Blockwise excursion sampling (BES)
+
 Blockwise excursion sampling (BES) is a de novo computational protocol
 to build heterogeneous structural ensembles for intrinsically disordered
 proteins (IDPs). This method combines the strength of the simulated

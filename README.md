@@ -11,10 +11,13 @@ tcl scripts of BES protocol was implemented for NAMD.
 
 This directory includes the following folder and files:
 
-Example---> an example of BES for Amyloid beta
-base.conf---> contains basic config options for NAMD
-EC.conf---> tcl script of BES algorithm
-EC_Parameter---> a config file for EC.tcl script
+Example ---> an example of BES for Amyloid beta
+
+base.conf ---> contains basic config options for NAMD
+
+EC.conf ---> tcl script of BES algorithm
+
+EC_Parameter ---> a config file for EC.tcl script
 
 
 This Algorithm and its use is described in the following publication:

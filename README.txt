@@ -22,7 +22,7 @@ EC_Parameter---> a config file for EC.tcl script
 
 This Algorithm and its use is described in the following publication:
 Najmeh Salehi, Rohoullah Firouzi and Mohammad Hossein Karimi-Jafari,
-Blockwise excursion sampling: efficient gen-eration of diverse structural
+Blockwise excursion sampling: efficient generation of diverse structural
 libraries for intrin-sically disordered proteins, ...,....
 
 

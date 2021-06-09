@@ -20,7 +20,7 @@ EC.conf---> tcl script of BES algorithm
 EC_Parameter---> a config file for EC.tcl script
 
 
-This Algorithm and its use are described in the following publication:
+This Algorithm is described in the following publication:
 N Salehi, M Amininasab, R Firouzi, MH Karimi-Jafaria,Efficient construction of
 a diverse conformational library for amyloid-β as an intrinsically disordered 
 protein. Journal of Molecular Graphics and Modelling, 2019, 88, 183-193.
